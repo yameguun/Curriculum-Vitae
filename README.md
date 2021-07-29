@@ -32,14 +32,14 @@
 スタートアップの第一号エンジニア。サービスの立上げからリリースまで全て担当。
 
 #### imanee (2015 - 2016)
-[imanee](https://www.value-press.com/pressrelease/141428)
-Rails製のファッションメディア。仕様決めから開発・リリース・保守まで担当。
-Rails / AWS / MySQL / HTML / javascript
+[imanee](https://www.value-press.com/pressrelease/141428)  
+Rails製のファッションメディア。仕様決めから開発・リリース・保守まで担当。  
+Rails / AWS / MySQL / HTML / javascript  
 
 #### CRAFT STORE (2017 - 2021)
-[CRAFT STORE](https://www.craft-store.jp/)
-Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。
-Rails / AWS / MySQL / HTML / javascript
+[CRAFT STORE](https://www.craft-store.jp/)  
+Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
+Rails / AWS / MySQL / HTML / javascript  
 
 ##### 担当業務
 - インフラ設計
