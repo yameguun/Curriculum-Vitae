@@ -4,7 +4,6 @@
 |---|-----|
 |Name|田中清治(Seiji Tanaka)|
 |Blog|[久留米で働くプログラマーのブログ](https://www.yameguun.com/)|
-|Twitter|[@s_tanaka_suncac](https://twitter.com/s_tanaka_suncac)|
 |Qiita|[nsy999jp](http://qiita.com/nsy999jp)|
 
 ## スキル
