@@ -40,6 +40,11 @@ Rails / AWS / MySQL / HTML / javascript
 Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
 Rails / AWS / MySQL / HTML / javascript  
 
+#### 店舗型ふるさと納税ふるさと`s（2021）
+[店舗型ふるさと納税ふるさと`s](https://furusatos.com/tsukubamirai)  
+Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
+Rails / MySQL / HTML / javascript  
+
 ##### 担当業務
 - インフラ設計
 - サービスアーキテクチャ検討
