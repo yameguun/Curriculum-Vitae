@@ -40,11 +40,6 @@ Rails / AWS / MySQL / HTML / javascript
 Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
 Rails / AWS / MySQL / HTML / javascript  
 
-#### 店舗型ふるさと納税ふるさと`s（2021）
-[店舗型ふるさと納税ふるさと`s](https://furusatos.com/tsukubamirai)  
-Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
-Rails / MySQL / HTML / javascript  
-
 ##### 担当業務
 - インフラ設計
 - サービスアーキテクチャ検討
@@ -57,6 +52,11 @@ Rails / MySQL / HTML / javascript
 
 ### 2021/8 - 現在 : 株式会社サンカクキカク
 最高技術責任者　会社全体のシステム開発の統括。
+
+#### 店舗型ふるさと納税ふるさと`s（2021）
+[店舗型ふるさと納税ふるさと`s](https://furusatos.com/tsukubamirai)  
+Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
+Rails / MySQL / HTML / javascript  
 
 ##### 担当業務
 - インフラ設計
