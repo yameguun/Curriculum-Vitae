@@ -58,6 +58,11 @@ Rails / AWS / MySQL / HTML / javascript
 Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
 Rails / MySQL / HTML / javascript  
 
+#### 検査おしらせ（2022）
+[検査おしらせ](https://osirase.jp)  
+LINE LIFF アプリ。仕様決めから開発・リリース・保守まで担当。 
+Rails / MySQL / HTML / javascript  
+
 ##### 担当業務
 - インフラ設計
 - サービスアーキテクチャ検討
