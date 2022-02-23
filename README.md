@@ -3,7 +3,6 @@
 |key|value|
 |---|-----|
 |Name|田中清治(Seiji Tanaka)|
-|Blog|[久留米で働くプログラマーのブログ](https://www.yameguun.com/)|
 |Qiita|[nsy999jp](http://qiita.com/nsy999jp)|
 
 ## スキル
@@ -12,16 +11,9 @@
 - Ruby
 - JavaScript
 - SQL
-- 日本語
-  - ネイティブ
 
 ### フレームワーク
 - Rails
-
-## 強み
-- 感情的にならずに話ができる
-- コミュニケーション能力普通
-- 長時間稼働しても元気
 
 ## やったことはないが興味があるもの
 - Flutterの習得
@@ -55,13 +47,13 @@ Rails / AWS / MySQL / HTML / javascript
 
 #### 店舗型ふるさと納税ふるさと`s（2021）
 [店舗型ふるさと納税ふるさと`s](https://furusatos.com/tsukubamirai)  
-Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
-Rails / MySQL / HTML / javascript  
+Rails製のECサイト。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。  
+Rails / MySQL / HTML / javascript  / VPS
 
 #### 検査おしらせ（2022）
 [検査おしらせ](https://osirase.jp)  
-LINE LIFF アプリ。仕様決めから開発・リリース・保守まで担当。 
-Rails / MySQL / HTML / javascript  
+LINE LIFF アプリ。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。 
+Rails / MySQL / HTML / javascript  / VPS
 
 ##### 担当業務
 - インフラ設計
