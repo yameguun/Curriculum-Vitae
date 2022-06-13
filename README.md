@@ -11,12 +11,11 @@
 - Ruby
 - JavaScript
 - SQL
+- Dart
 
 ### フレームワーク
 - Rails
-
-## やったことはないが興味があるもの
-- Flutterの習得
+- Flutter
 
 ## 職務経歴
 ### 2015/5 - 2021/7 : ニューワールド株式会社
@@ -45,8 +44,8 @@ Rails / AWS / MySQL / HTML / javascript
 ### 2021/8 - 現在 : 株式会社サンカクキカク
 最高技術責任者　会社全体のシステム開発の統括。
 
-#### 店舗型ふるさと納税ふるさと`s（2021）
-[店舗型ふるさと納税ふるさと`s](https://furusatos.com/tsukubamirai)  
+#### 店舗型ふるさと納税ふるさとズ（2021）
+[店舗型ふるさと納税ふるさとズ](https://furusatos.com)  
 Rails製のECサイト。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。  
 Rails / MySQL / HTML / javascript  / VPS
 
