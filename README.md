@@ -49,6 +49,12 @@ Rails / AWS / MySQL / HTML / javascript
 Rails製のECサイト。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。  
 Rails / MySQL / HTML / javascript  / VPS
 
+#### 店舗型ふるさと納税ふるさとズ 事業者様専用アプリ
+[ふるさとズ ios](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1632550284)  
+[ふるさとズ android](https://play.google.com/store/apps/details?id=com.suncackikaku.furusatos.store)  
+Flutter制の管理アプリ
+Dart / Flutter
+
 #### 検査おしらせ（2022）
 [検査おしらせ](https://osirase.jp)  
 LINE LIFF アプリ。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。 
