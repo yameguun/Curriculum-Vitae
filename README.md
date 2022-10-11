@@ -61,7 +61,7 @@ Dart / Flutter
 
 #### 検査おしらせ（2022）
 [検査おしらせ](https://osirase.jp)  
-LINE LIFF アプリ。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。 
+LINE LIFF アプリ。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。   
 Rails / MySQL / HTML / javascript  / VPS / LIFF
 
 ##### 担当業務
