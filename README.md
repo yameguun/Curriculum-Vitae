@@ -28,7 +28,7 @@ Java / Symfoware / HTML / javascript
 
 #### imanee (2015 - 2016)
 [imanee](https://www.value-press.com/pressrelease/141428)  
-Rails製のファッションメディア。全部担当。
+Rails製のファッションメディア。全部担当。  
 Rails / AWS / MySQL / HTML / javascript  
 
 #### CRAFT STORE (2017 - 2021)
