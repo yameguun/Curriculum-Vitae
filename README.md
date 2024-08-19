@@ -16,6 +16,7 @@
 ### フレームワーク
 - Rails
 - Flutter
+- Astro
 
 ## 職務経歴
 ### 2007/4 - 2015/4 : 株式会社システムオーディット
@@ -27,31 +28,21 @@ Java / Symfoware / HTML / javascript
 
 #### imanee (2015 - 2016)
 [imanee](https://www.value-press.com/pressrelease/141428)  
-Rails製のファッションメディア。仕様決めから開発・リリース・保守まで担当。  
+Rails製のファッションメディア。全部担当。
 Rails / AWS / MySQL / HTML / javascript  
 
 #### CRAFT STORE (2017 - 2021)
 [CRAFT STORE](https://www.craft-store.jp/)  
-Rails製のECサイト。仕様決めから開発・リリース・保守まで担当。  
-Rails / AWS / MySQL / HTML / javascript  
-
-##### 担当業務
-- インフラ設計
-- サービスアーキテクチャ検討
-- 新サービス検討
-- 技術選定
-- 要件定義・基本設計・詳細設計
-- 実装・テスト・リリース・障害対応
-- 開発環境改善（コンテナ化）
-- API設計・開発
+Rails製のECサイト。全部担当。  
+Rails / AWS / MySQL / HTML / javascript
 
 ### 2021/8 - 現在 : 株式会社サンカクキカク
 最高技術責任者　会社全体のシステム開発の統括。
 
-#### 店舗型ふるさと納税ふるさとズ（2021）
+#### 店舗型ふるさと納税ふるさとズ 2021
 [店舗型ふるさと納税ふるさとズ](https://furusatos.com)  
-Rails製のECサイト。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。  
-Rails / MySQL / HTML / javascript  / VPS
+Rails製のECサイト。全部担当。
+Rails / MySQL / HTML / javascript  / AWS
 
 #### 店舗型ふるさと納税ふるさとズ 事業者様専用アプリ
 [ふるさとズ ios](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1632550284)  
@@ -59,21 +50,15 @@ Rails / MySQL / HTML / javascript  / VPS
 Flutter制の管理アプリ   
 Dart / Flutter
 
-#### 検査おしらせ（2022）
+#### 検査おしらせ 2022 - 2023
 [検査おしらせ](https://osirase.jp)  
-LINE LIFF アプリ。要件定義・基本設計・詳細設計・開発・リリース・保守まで担当。   
+Line LIFF アプリ。全部担当。   
 Rails / MySQL / HTML / javascript  / VPS / LIFF
 
-##### 担当業務
-- インフラ設計
-- サービスアーキテクチャ検討
-- 新サービス検討
-- 技術選定
-- 要件定義・基本設計・詳細設計
-- 実装・テスト・リリース・障害対応
-- 開発環境改善（コンテナ化）
-- API設計・開発
-- PM
+#### 簡単ネットショップ 2023
+[簡単ネットショップ](https://line-ec.net/)
+Line LIFF アプリ。全部担当。   
+Rails / MySQL / HTML / javascript  / VPS / LIFF
 
 ## 受賞歴
 - 第7回フクオカRuby大賞 AWS賞
